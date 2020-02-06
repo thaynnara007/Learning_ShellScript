@@ -42,9 +42,9 @@ fi
 #inteiro1 -ge inteiro2: inteiro1 é maior ou igual a inteiro2;
 #inteiro1 -lt inteiro2: inteiro1 é menor que inteiro2;
 #inteiro1 -le inteiro2: inteiro1 é menor ou igual a inteiro2;
-#e nome_do_arquivo: verifica se nome_do_arquivo existe;
-#d nome_do_arquivo: verifica se nome_do_arquivo é um diretório;
-#f nome_do_arquivo: verifica se nome_do_arquivo é um arquivo regular (texto, imagem, programa, docs, planilhas).
+#-e nome_do_arquivo: verifica se nome_do_arquivo existe;
+#-d nome_do_arquivo: verifica se nome_do_arquivo é um diretório;
+#-f nome_do_arquivo: verifica se nome_do_arquivo é um arquivo regular (texto, imagem, programa, docs, planilhas).
 
 # CASE
 # FUNÇÕES
